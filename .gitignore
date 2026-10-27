@@ -1,0 +1,16 @@
+/release/
+/verification/
+/data/
+*.pdb
+/.vs/
+/bin/
+/obj/
+/tmp/
+*.exe
+*.dll
+*.log
+*.user
+*.suo
+.env
+.env.*
+!.env.example
